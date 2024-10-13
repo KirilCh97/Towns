@@ -1,2 +1,7 @@
 # Towns for SoftUni
-Code for the Git and GitHub Exercise
+# Roles
+
+· KirilCh97 takes the role "Editor"
+
+· KirilCh977 takes the role "Shuffler"
+
